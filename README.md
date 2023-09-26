@@ -6,6 +6,8 @@
 
 - 📚 Estou me Formando em Analíse e desenvolvimento de sistema, atualmente estudando Java, MYSQL.
 - 🦏 Tenho Conhecimento nos frameworks: BootStrap.
+- 🦏 Basico em Java,kotlin e python.
+- 
 
 
 
